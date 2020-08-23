@@ -1,5 +1,5 @@
 # Horiseon Social Solution Services
-JH Bootcamp Homework 02
+JH Bootcamp Homework 01
 
 This project involves refactoring an existing website to make it optimized for search engines and to meet accessibility standards, by using semantic HTML elements, alt attributes, and updating the title element. 
 
